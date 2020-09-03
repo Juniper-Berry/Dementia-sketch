@@ -1,6 +1,6 @@
 let myFont;
 function preload() {
-  myFont = loadFont('assets/inconsolata.otf');
+  myFont = loadFont('assets/HomemadeApple-Regular.ttf');
 }
 
 function setup() {
